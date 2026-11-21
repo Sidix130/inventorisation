@@ -1,0 +1,708 @@
+
+
+============================================================================
+  0 - IDENTIFICATION ET CONTEXTE
+============================================================================
+Date de collecte : 2026-11-18T23:11:35.4349364+01:00
+Nom de la machine : DESKTOP-5EH7J2L
+Utilisateur courant : non collecte
+Elevation administrateur : non demandee / non utilisee
+Version PowerShell : 5.1.26100.9711
+
+--- Systeme d'exploitation ---
+
+
+Systeme          : Microsoft Windows 11 Famille
+Version          : 10.0.26100
+Build            : 26100
+Architecture     : 64 bits
+Installation     : 28/02/2025 23:06:32
+DernierDemarrage : 08/11/2026 11:24:27
+Fabricant        : Microsoft Corporation
+
+--- Contexte de session et demarrage ---
+
+
+FuseauHoraire        : Romance Standard Time
+Culture              : fr-FR
+Demarrage            : 08/11/2026 11:24:27
+DureeDepuisDemarrage : 10j 11h 47m
+TypeSysteme          : x64-based PC
+
+
+============================================================================
+  1 - IDENTITE MATERIELLE
+============================================================================
+
+--- Ordinateur et carte mere ---
+
+
+FabricantSysteme   : Acer
+ModeleSysteme      : Aspire A315-24P
+TypeSysteme        : x64-based PC
+FabricantCarteMere : MDC
+ModeleCarteMere    : Herbag_MDU
+VersionCarteMere   : V1.11
+FabricantBIOS      : Insyde Corp.
+VersionBIOS        : V1.11
+DateBIOS           : 07/07/2023 02:00:00
+
+--- Peripheriques principaux presents ---
+
+Class       FriendlyName                                                Status
+-----       ------------                                                ------
+Display     AMD Radeon(TM) Graphics                                     OK    
+MEDIA       AMD Audio Device                                            OK    
+MEDIA       AMD High Definition Audio Device                            OK    
+MEDIA       HONOR CHOICE Earbuds X7i                                    OK    
+MEDIA       HONOR CHOICE Earbuds X7i Hands-Free                         OK    
+MEDIA       KILBURN II                                                  OK    
+MEDIA       Proxy de service de répartition Microsoft                   OK    
+MEDIA       Realtek(R) Audio                                            OK    
+MEDIA       STOCKWELL II                                                OK    
+Net         Bluetooth Device (Personal Area Network)                    OK    
+Net         MediaTek Wi-Fi MT7902 Wireless LAN Card                     OK    
+Net         Microsoft Kernel Debug Network Adapter                      Error 
+Net         Microsoft Wi-Fi Direct Virtual Adapter                      OK    
+Net         Microsoft Wi-Fi Direct Virtual Adapter #2                   OK    
+Net         VirtualBox Host-Only Ethernet Adapter                       Error 
+Net         WAN Miniport (IKEv2)                                        OK    
+Net         WAN Miniport (IP)                                           OK    
+Net         WAN Miniport (IPv6)                                         OK    
+Net         WAN Miniport (L2TP)                                         OK    
+Net         WAN Miniport (Network Monitor)                              OK    
+Net         WAN Miniport (PPPOE)                                        OK    
+Net         WAN Miniport (PPTP)                                         OK    
+Net         WAN Miniport (SSTP)                                         OK    
+SCSIAdapter Contrôleur des espaces de stockage Microsoft                OK    
+SCSIAdapter Contrôleur NVM Express standard                             OK    
+System      Acer Application Base Software Component                    OK    
+System      AMD Audio CoProcessor                                       OK    
+System      AMD Crash Defender                                          OK    
+System      AMD GPIO Controller                                         OK    
+System      AMD I2C Controller                                          OK    
+System      AMD I2C Controller                                          OK    
+System      AMD Micro PEP Device                                        OK    
+System      AMD SMBus                                                   Error 
+System      Bouton d'alimentation ACPI                                  OK    
+System      Bus redirecteur de périphérique du Bureau à distance        OK    
+System      Carte système                                               OK    
+System      Charge Arbitration Driver                                   OK    
+System      Compteur d'événement de haute précision                     OK    
+System      Contrôleur d'accès direct à la mémoire                      OK    
+System      Contrôleur d'interruptions programmable                     OK    
+System      Contrôleur embarqué compatible ACPI Microsoft               OK    
+System      Contrôleur High Definition Audio                            OK    
+System      Coprocesseur arithmétique                                   OK    
+System      Couvercle ACPI                                              OK    
+System      Énumérateur de bus composite                                OK    
+System      Énumérateur de bus racine UMBus                             OK    
+System      Énumérateur de cartes réseau virtuelles NDIS                OK    
+System      Énumérateur de lecteur virtuel Microsoft                    OK    
+System      Énumérateur de périphérique logiciel Plug-and-Play          OK    
+System      Fournisseur de bus d’ordinateur virtuel Microsoft Hyper-V   OK    
+System      Gestionnaire de volumes                                     OK    
+System      Haut-parleur système                                        OK    
+System      High Definition Audio Bus                                   OK    
+System      HONOR CHOICE Earbuds X7i Hands-Free AG                      OK    
+System      Horloge système                                             OK    
+System      Horloge système CMOS/en temps réel                          OK    
+System      Interface de gestion Microsoft Windows pour ACPI            OK    
+System      Microsoft System Management BIOS Driver                     OK    
+System      Périphérique conteneur de processeurs ACPI                  OK    
+System      Pilote d’affichage de base Microsoft                        OK    
+System      Pilote d’infrastructure de virtualisation Microsoft Hyper-V OK    
+System      Pilote de rendu de base Microsoft                           OK    
+System      Pont ISA standard PCI                                       OK    
+System      Pont processeur hôte standard PCI                           OK    
+System      Pont processeur hôte standard PCI                           OK    
+System      Pont processeur hôte standard PCI                           OK    
+System      Pont processeur hôte standard PCI                           OK    
+System      Pont processeur hôte standard PCI                           OK    
+System      Pont processeur hôte standard PCI                           OK    
+System      Pont processeur hôte standard PCI                           OK    
+System      Pont processeur hôte standard PCI                           OK    
+System      Pont processeur hôte standard PCI                           OK    
+System      Pont processeur hôte standard PCI                           OK    
+System      Pont processeur hôte standard PCI                           OK    
+System      Pont processeur hôte standard PCI                           OK    
+System      Port racine PCI Express                                     OK    
+System      Port racine PCI Express                                     OK    
+System      Port racine PCI Express                                     OK    
+System      Port racine PCI Express                                     OK    
+System      Racine complexe PCI Express                                 OK    
+System      Ressources de la carte mère                                 OK    
+System      Ressources de la carte mère                                 OK    
+System      Ressources de la carte mère                                 OK    
+System      Serveur de disque virtuel Microsoft Hyper-V                 OK    
+System      Serveur PCI Microsoft Hyper-V                               OK    
+System      Service Hyperviseur Microsoft                               OK    
+System      Système compatible ACPI Microsoft                           OK    
+System      Système compatible UEFI Microsoft                           OK    
+System      Zone thermique ACPI                                         OK    
+USB         Contrôleur hôte AMD USB 2.0 eXtensible - 1.20 (Microsoft)   OK    
+USB         Contrôleur hôte AMD USB 3.10 eXtensible - 1.20 (Microsoft)  OK    
+USB         Contrôleur hôte AMD USB 3.10 eXtensible - 1.20 (Microsoft)  OK    
+USB         Dispositif de stockage de masse USB                         OK    
+USB         Hub USB racine (USB 3.0)                                    OK    
+USB         Hub USB racine (USB 3.0)                                    OK    
+USB         Hub USB racine (USB 3.0)                                    OK    
+USB         Périphérique USB composite                                  OK    
+USB         Périphérique USB composite                                  OK
+
+--- Peripheriques USB presents ---
+
+FriendlyName                                               Status
+------------                                               ------
+Contrôleur hôte AMD USB 2.0 eXtensible - 1.20 (Microsoft)  OK    
+Contrôleur hôte AMD USB 3.10 eXtensible - 1.20 (Microsoft) OK    
+Contrôleur hôte AMD USB 3.10 eXtensible - 1.20 (Microsoft) OK    
+Dispositif de stockage de masse USB                        OK    
+Hub USB racine (USB 3.0)                                   OK    
+Hub USB racine (USB 3.0)                                   OK    
+Hub USB racine (USB 3.0)                                   OK    
+Périphérique USB composite                                 OK    
+Périphérique USB composite                                 OK
+
+
+============================================================================
+  2 - PROCESSEUR
+============================================================================
+
+--- Caracteristiques CPU ---
+
+
+Name                                    : AMD Ryzen 5 7520U with Radeon Graphics         
+Manufacturer                            : AuthenticAMD
+AddressWidth                            : 64
+DataWidth                               : 64
+NumberOfCores                           : 4
+NumberOfLogicalProcessors               : 8
+CurrentClockSpeed                       : 2801
+MaxClockSpeed                           : 2801
+VirtualizationFirmwareEnabled           : True
+SecondLevelAddressTranslationExtensions : False
+VMMonitorModeExtensions                 : False
+
+--- Charge CPU au moment de la collecte ---
+
+
+ChargeCPU_Moyenne_pct : 34
+Note : les extensions CPU detaillees (AVX, AVX2, AVX-512, AES-NI, etc.) ne sont pas certifiees par cet inventaire WMI initial.
+
+
+============================================================================
+  3 - MEMOIRE RAM ET MEMOIRE VIRTUELLE
+============================================================================
+
+--- Memoire reconnue par Windows ---
+
+
+RAMVisible_Go             : 15,24
+RAMLibre_Go               : 3,11
+RAMUtilisee_Go            : 12,13
+MemoireVirtuelleTotale_Ko : 31184124
+MemoireVirtuelleLibre_Ko  : 5296848
+
+--- Barrettes memoire (sans numero de serie) ---
+
+DeviceLocator Capacite_Go Speed ConfiguredClockSpeed Manufacturer      PartNumber           FormFactor MemoryType SMBIOSMemoryType DataWidth
+------------- ----------- ----- -------------------- ------------      ----------           ---------- ---------- ---------------- ---------
+DIMM 0                  8  5500                 5500 Micron Technology MT62F2G32D8DR-031 WT          1          0               35        32
+DIMM 0                  8  5500                 5500 Micron Technology MT62F2G32D8DR-031 WT          1          0               35        32
+
+--- Fichiers de pagination ---
+
+Name            AllocatedBaseSize CurrentUsage PeakUsage
+----            ----------------- ------------ ---------
+C:\pagefile.sys             14848         2196      2251
+
+
+============================================================================
+  4 - GPU ET ACCELERATEURS
+============================================================================
+
+--- Cartes graphiques reconnues par Windows ---
+
+Name                    VideoProcessor                         DriverVersion   DriverDate          MemoireVideoRapportee_Go CurrentHorizontalResolution CurrentVerticalResolution
+----                    --------------                         -------------   ----------          ------------------------ --------------------------- -------------------------
+AMD Radeon(TM) Graphics AMD Radeon Graphics Processor (0x1506) 31.0.12024.9004 20/12/2023 01:00:00                      0,5                        1920                      1080
+
+--- NVIDIA - informations fournies par le pilote (si disponible) ---
+nvidia-smi absent ou pilote NVIDIA non disponible.
+
+--- Pilotes graphiques signes ---
+
+DeviceName              DriverVersion   DriverDate          Manufacturer                
+----------              -------------   ----------          ------------                
+AMD Radeon(TM) Graphics 31.0.12024.9004 20/12/2023 01:00:00 Advanced Micro Devices, Inc.
+Note : la valeur VRAM issue de Win32_VideoController peut etre absente ou inexacte. Pour AMD/Intel, elle n'est pas consideree comme une mesure garantie.
+
+
+============================================================================
+  5 - STOCKAGE
+============================================================================
+
+--- Disques physiques (sans numero de serie ni UniqueId) ---
+
+DeviceId FriendlyName              MediaType   BusType Taille_Go HealthStatus OperationalStatus SpindleSpeed
+-------- ------------              ---------   ------- --------- ------------ ----------------- ------------
+1        SanDisk Ultra             Unspecified USB         14,32 Healthy      OK                           0
+0        Micron_2450_MTFDKBA512TFK SSD         NVMe       476,94 Healthy      OK                           0
+
+--- Disques Windows et caracteristiques ---
+
+Number FriendlyName              BusType PartitionStyle Taille_Go OperationalStatus HealthStatus IsBoot IsSystem IsReadOnly
+------ ------------              ------- -------------- --------- ----------------- ------------ ------ -------- ----------
+     0 Micron_2450_MTFDKBA512TFK NVMe    GPT               476,94 Online            Healthy        True     True      False
+     1 SanDisk Ultra             USB     GPT                14,32 Online            Healthy       False    False      False
+
+--- Partitions (correspondance disque / partition) ---
+
+DiskNumber PartitionNumber DriveLetter Type     Taille_Go IsBoot IsSystem
+---------- --------------- ----------- ----     --------- ------ --------
+         0               1             System         0,1  False     True
+         0               2             Reserved      0,02  False    False
+         0               3           C Basic       475,94   True    False
+         0               4             Recovery      0,88  False    False
+
+--- Volumes et occupation ---
+
+DriveLetter FileSystemLabel FileSystem DriveType Taille_Go Libre_Go Utilise_pct HealthStatus
+----------- --------------- ---------- --------- --------- -------- ----------- ------------
+                            NTFS       Fixed          0,88     0,08        90,5 Healthy     
+C                           NTFS       Fixed        475,94    21,97        95,4 Healthy
+
+--- Storage Spaces / pools (si disponibles) ---
+
+FriendlyName OperationalStatus HealthStatus Taille_Go
+------------ ----------------- ------------ ---------
+Primordial   OK                Healthy         491,26
+
+--- BitLocker (aucune cle de recuperation collectee) ---
+[BitLocker : acces refuse â€” normal sans elevation administrateur]
+Note : HealthStatus est une information exposee par le fournisseur Windows / constructeur ; elle ne remplace pas un diagnostic SMART approfondi.
+
+
+============================================================================
+  6 - RESEAU
+============================================================================
+Attention : cette section contient des adresses IP locales, DNS, SSID et ports en ecoute.
+
+--- Interfaces reseau (adresses MAC exclues) ---
+
+Name                       InterfaceDescription                     Status       LinkSpeed MediaConnectionState InterfaceIndex
+----                       --------------------                     ------       --------- -------------------- --------------
+Wi-Fi                      MediaTek Wi-Fi MT7902 Wireless LAN Card  Up           540 Mbps             Connected              2
+Ethernet 3                 VirtualBox Host-Only Ethernet Adapter    Not Present  0 bps                  Unknown              9
+Connexion réseau Bluetooth Bluetooth Device (Personal Area Network) Disconnected 3 Mbps            Disconnected             11
+
+--- Adresses IP ---
+
+InterfaceAlias                AddressFamily IPAddress     PrefixLength PrefixOrigin AddressState
+--------------                ------------- ---------     ------------ ------------ ------------
+Connexion au réseau local* 10          IPv4 169.254.40.31           16    WellKnown    Tentative
+Connexion au réseau local* 9           IPv4 169.254.1.3             16    WellKnown    Tentative
+Connexion réseau Bluetooth             IPv4 169.254.8.233           16    WellKnown    Tentative
+Loopback Pseudo-Interface 1            IPv4 127.0.0.1                8    WellKnown    Preferred
+Loopback Pseudo-Interface 1            IPv6 ::1                    128    WellKnown    Preferred
+Wi-Fi                                  IPv4 192.168.1.169           24         Dhcp    Preferred
+
+--- Routes IPv4 ---
+
+DestinationPrefix  NextHop     InterfaceAlias                RouteMetric
+-----------------  -------     --------------                -----------
+224.0.0.0/4        0.0.0.0     Connexion au réseau local* 10         256
+255.255.255.255/32 0.0.0.0     Connexion au réseau local* 10         256
+224.0.0.0/4        0.0.0.0     Connexion au réseau local* 9          256
+255.255.255.255/32 0.0.0.0     Connexion au réseau local* 9          256
+224.0.0.0/4        0.0.0.0     Connexion réseau Bluetooth            256
+255.255.255.255/32 0.0.0.0     Connexion réseau Bluetooth            256
+224.0.0.0/4        0.0.0.0     Loopback Pseudo-Interface 1           256
+127.255.255.255/32 0.0.0.0     Loopback Pseudo-Interface 1           256
+127.0.0.1/32       0.0.0.0     Loopback Pseudo-Interface 1           256
+255.255.255.255/32 0.0.0.0     Loopback Pseudo-Interface 1           256
+127.0.0.0/8        0.0.0.0     Loopback Pseudo-Interface 1           256
+0.0.0.0/0          192.168.1.1 Wi-Fi                                   0
+224.0.0.0/4        0.0.0.0     Wi-Fi                                 256
+192.168.1.255/32   0.0.0.0     Wi-Fi                                 256
+255.255.255.255/32 0.0.0.0     Wi-Fi                                 256
+192.168.1.0/24     0.0.0.0     Wi-Fi                                 256
+192.168.1.169/32   0.0.0.0     Wi-Fi                                 256
+
+--- Routes IPv6 ---
+
+DestinationPrefix NextHop InterfaceAlias              RouteMetric
+----------------- ------- --------------              -----------
+::1/128           ::      Loopback Pseudo-Interface 1         256
+ff00::/8          ::      Loopback Pseudo-Interface 1         256
+
+--- Serveurs DNS ---
+
+InterfaceAlias              AddressFamily ServeursDNS                                         
+--------------              ------------- -----------                                         
+Wi-Fi                                   2 8.8.8.8, 8.8.4.4                                    
+Loopback Pseudo-Interface 1            23 fec0:0:0:ffff::1, fec0:0:0:ffff::2, fec0:0:0:ffff::3
+
+--- Connexion Wi-Fi (BSSID et adresse physique exclus) ---
+
+Il existe 1 interface sur le syst├¿me┬á: 
+
+    Nom                   : Wi-Fi
+    Description            : MediaTek Wi-Fi MT7902 Wireless LAN Card
+    GUID                   : 05ce5aa2-c260-4f9c-b00d-8c596743a4b0
+    Type dÔÇÖinterface         : Primaire
+    ├ëtat                  : connect├®
+    SSID                  : SFR_F9AF
+    Bande                   : 5┬áGHz
+    Canal                : 52
+    chiffrement Akm connect├® : [ akm = 00-0f-ac┬á:02, chiffrement = 00-0f-ac┬á:04 ]
+    Type de r├®seau          ┬á: Infrastructure
+    Type de radio            ┬á: 802.11ax
+    Authentification        ┬á: WPA2┬á-┬áPersonnel
+    Chiffrement                 : CCMP
+    Mode de connexion        : Connexion automatique
+    R├®ception (Mbits/s)   ┬á: 453.7
+    Transmission (Mbits/s)  ┬á: 540
+    Signal                ┬á: 75% 
+    Rssi                   : -66
+    Profil               ┬á: SFR_F9AF 
+    QoS MSCS configur├® : 0
+    Carte QoS configur├®e : 0
+    Mappage QoS autoris├® par la strat├®gie : 0
+
+--- Sockets TCP en ecoute (adresse, port et nom du processus) ---
+
+AdresseLocale PortLocal Processus            
+------------- --------- ---------            
+::                  135 svchost              
+0.0.0.0             135 svchost              
+::                  445 System               
+127.0.0.1          4343 AcerCCAgent          
+127.0.0.1          4449 AcerDIAgent          
+0.0.0.0            5040 svchost              
+127.0.0.1          5141 AcerQAAgent          
+127.0.0.1          6130 Antigravity IDE      
+127.0.0.1          6131 Antigravity IDE      
+127.0.0.1          6137 agy                  
+127.0.0.1          6142 agy                  
+127.0.0.1          6169 agy                  
+127.0.0.1          8384 syncthing            
+127.0.0.1         15152 AcerService          
+127.0.0.1         17540 Antigravity IDE      
+::                22000 syncthing            
+127.0.0.1         35173 agy                  
+127.0.0.1         46753 AcerSysMonitorService
+127.0.0.1         46760 AcerSysMonitorService
+0.0.0.0           49664 lsass                
+::                49664 lsass                
+::                49665 wininit              
+0.0.0.0           49665 wininit              
+::                49666 svchost              
+0.0.0.0           49666 svchost              
+::                49667 spoolsv              
+0.0.0.0           49667 spoolsv              
+0.0.0.0           49671 svchost              
+::                49671 svchost              
+0.0.0.0           49674 services             
+::                49674 services             
+127.0.0.1         51204 python               
+127.0.0.1         51207 python               
+127.0.0.1         51779 ADESv2Svc            
+127.0.0.1         51780 ADESv2Svc            
+127.0.0.1         51781 ADESv2Svc            
+127.0.0.1         51782 ADESv2Svc            
+::                58995 AcerPixyService
+
+--- Sockets UDP (adresse, port et nom du processus) ---
+
+AdresseLocale PortLocal Processus
+------------- --------- ---------
+::                  123 svchost  
+0.0.0.0             123 svchost  
+::1                1900 svchost  
+192.168.1.169      1900 svchost  
+127.0.0.1          1900 svchost  
+::                 3702 dasHost  
+0.0.0.0            3702 dasHost  
+0.0.0.0            5050 svchost  
+0.0.0.0            5353 chrome   
+0.0.0.0            5355 svchost  
+0.0.0.0           21027 syncthing
+::                21027 syncthing
+::                22000 syncthing
+127.0.0.1         49664 svchost  
+::                53310 svchost  
+0.0.0.0           56545 chrome   
+::                56846 syncthing
+0.0.0.0           58385 dasHost  
+::                58386 dasHost  
+0.0.0.0           62693 syncthing
+::1               63737 svchost  
+192.168.1.169     63738 svchost  
+127.0.0.1         63739 svchost
+
+--- Profils du pare-feu Windows ---
+
+Name    Enabled DefaultInboundAction DefaultOutboundAction
+----    ------- -------------------- ---------------------
+Domain     True        NotConfigured         NotConfigured
+Private    True        NotConfigured         NotConfigured
+Public     True        NotConfigured         NotConfigured
+
+
+============================================================================
+  7 - SYSTEME ET SERVICES
+============================================================================
+
+--- Services en cours (Win32_Service) ---
+
+Name                        DisplayName                                                                   State   StartMode
+----                        -----------                                                                   -----   ---------
+AcerARTAIMMXDriverService   AcerARTAIMMXDriverService                                                     Running Auto     
+AcerARTAIMMXService         AcerARTAIMMXService                                                           Running Auto     
+AcerCCAgentSvis             Acer Care Center                                                              Running Auto     
+AcerDeviceEnablingServiceV2 Acer Device Enabling Sevice V2                                                Running Auto     
+AcerDIAgentSvis             Acer Device Info                                                              Running Auto     
+AcerGAICameraService        AcerGAICameraService                                                          Running Auto     
+AcerPixyService             AcerPixyService                                                               Running Auto     
+AcerQAAgentSvis             Acer Quick Access                                                             Running Auto     
+AcerServiceSvc              Acer Service Component Service                                                Running Auto     
+AMD Crash Defender Service  AMD Crash Defender Service                                                    Running Auto     
+AMD External Events Utility AMD External Events Utility                                                   Running Auto     
+Appinfo                     Informations d’application                                                    Running Manual   
+ASMSvc                      Acer System Monitor Service                                                   Running Auto     
+AudioEndpointBuilder        Générateur de points de terminaison du service Audio Windows                  Running Auto     
+Audiosrv                    Audio Windows                                                                 Running Auto     
+BFE                         Moteur de filtrage de base                                                    Running Auto     
+BluetoothUserService_7eb2d  Service de support des utilisateurs du Bluetooth_7eb2d                        Running Manual   
+BrokerInfrastructure        Service d’infrastructure des tâches en arrière-plan                           Running Auto     
+BTAGService                 Service de passerelle audio Bluetooth                                         Running Manual   
+BthAvctpSvc                 Service AVCTP                                                                 Running Manual   
+bthserv                     Service de prise en charge Bluetooth                                          Running Manual   
+camsvc                      Service Gestionnaire d’accès aux fonctionnalités                              Running Auto     
+cbdhsvc_7eb2d               Service utilisateur du Presse-papiers_7eb2d                                   Running Auto     
+CDPSvc                      Service de plateforme des appareils connectés                                 Running Auto     
+CDPUserSvc_7eb2d            Service pour utilisateur de plateforme d’appareils connectés_7eb2d            Running Auto     
+CoreMessagingRegistrar      CoreMessaging                                                                 Running Auto     
+CryptSvc                    Services de chiffrement                                                       Running Auto     
+DcomLaunch                  Lanceur de processus serveur DCOM                                             Running Auto     
+DeviceAssociationService    Service d’association de périphérique                                         Running Auto     
+DevicesFlowUserSvc_7eb2d    Flux d’appareils_7eb2d                                                        Running Manual   
+Dhcp                        Client DHCP                                                                   Running Auto     
+DispBrokerDesktopSvc        Service de stratégie d'affichage                                              Running Auto     
+DisplayEnhancementService   Service d'amélioration de l'affichage                                         Running Manual   
+Dnscache                    Client DNS                                                                    Running Auto     
+DoSvc                       Optimisation de livraison                                                     Running Manual   
+DPS                         Service de stratégie de diagnostic                                            Running Auto     
+DsSvc                       Service de partage des données                                                Running Manual   
+DusmSvc                     Consommation des données                                                      Running Auto     
+EventLog                    Journal d’événements Windows                                                  Running Auto     
+EventSystem                 Système d’événement COM+                                                      Running Auto     
+FontCache                   Service de cache de police Windows                                            Running Auto     
+gpsvc                       Client de stratégie de groupe                                                 Running Auto     
+hns                         Service de réseau hôte                                                        Running Manual   
+HPPrintScanDoctorService    HP Print Scan Doctor Service                                                  Running Auto     
+HvHost                      Service d'hôte HV                                                             Running Manual   
+InstallService              Installation du service Microsoft Store                                       Running Manual   
+iphlpsvc                    Assistance IP                                                                 Running Auto     
+KeyIso                      Isolation de clé CNG                                                          Running Manual   
+LanmanServer                Serveur                                                                       Running Auto     
+LanmanWorkstation           Station de travail                                                            Running Auto     
+LicenseManager              Serveur Gestionnaire de licences Windows                                      Running Manual   
+lmhosts                     Assistance NetBIOS sur TCP/IP                                                 Running Manual   
+LSM                         LSM                                                                           Running Unknown  
+MDCoreSvc                   Microsoft Defender Service de base                                            Running Auto     
+mpssvc                      Pare-feu Windows Defender                                                     Running Auto     
+NcbService                  Service Broker pour les connexions réseau                                     Running Manual   
+netprofm                    Service Liste des réseaux                                                     Running Manual   
+NetSetupSvc                 NetSetupSvc                                                                   Running Unknown  
+NPSMSvc_7eb2d               Lecture en cours du service du Responsable de la session_7eb2d                Running Manual   
+nsi                         Service Interface du magasin réseau                                           Running Auto     
+nvagent                     Service de virtualisation de réseau                                           Running Manual   
+PhoneSvc                    Service téléphonique                                                          Running Manual   
+PlugPlay                    Plug-and-Play                                                                 Running Manual   
+Power                       Puissance                                                                     Running Auto     
+ProfSvc                     Service de profil utilisateur                                                 Running Auto     
+RasMan                      Gestionnaire des connexions d’accès à distance                                Running Manual   
+RmSvc                       Service de gestion radio                                                      Running Manual   
+RpcEptMapper                Mappeur de point de terminaison RPC                                           Running Auto     
+RpcSs                       Appel de procédure distante (RPC)                                             Running Auto     
+RtkAudioUniversalService    Realtek Audio Universal Service                                               Running Auto     
+SamSs                       Gestionnaire de comptes de sécurité                                           Running Auto     
+Schedule                    Planificateur de tâches                                                       Running Auto     
+SecurityHealthService       Service Sécurité Windows                                                      Running Manual   
+SENS                        Service de notification d’événements système                                  Running Auto     
+SensorService               Service de capteur                                                            Running Manual   
+SharedAccess                Partage de connexion Internet (ICS)                                           Running Manual   
+ShellHWDetection            Détection matériel noyau                                                      Running Auto     
+smphost                     SMP de l’Espace de stockages Microsoft                                        Running Manual   
+Spooler                     Spouleur d’impression                                                         Running Auto     
+SSDPSRV                     Découverte SSDP                                                               Running Manual   
+SstpSvc                     Service SSTP (Secure Socket Tunneling Protocol)                               Running Manual   
+StateRepository             Service State Repository (StateRepository)                                    Running Auto     
+StiSvc                      Acquisition d’image Windows (WIA)                                             Running Auto     
+StorSvc                     Service de stockage                                                           Running Auto     
+SysMain                     SysMain                                                                       Running Auto     
+SystemEventsBroker          Service Broker des événements système                                         Running Auto     
+TapiSrv                     Téléphonie                                                                    Running Manual   
+TextInputManagementService  Service de gestion des entrées de texte                                       Running Auto     
+Themes                      Thèmes                                                                        Running Auto     
+TimeBrokerSvc               Service Broker pour les événements horaires                                   Running Manual   
+TokenBroker                 Gestionnaire de comptes web                                                   Running Manual   
+UdkUserSvc_7eb2d            Service utilisateur du kit de développement sans station d’accueil_7eb2d      Running Manual   
+UserManager                 Gestionnaire des utilisateurs                                                 Running Auto     
+UsoSvc                      Service Orchestrator pour les mises à jour                                    Running Auto     
+W32Time                     Temps Windows                                                                 Running Auto     
+Wcmsvc                      Gestionnaire des connexions Windows                                           Running Auto     
+WdiSystemHost               Hôte système de diagnostics                                                   Running Manual   
+WdNisSvc                    Service d’inspection réseau de l’antivirus Microsoft Defender                 Running Manual   
+webthreatdefsvc             Service Web Threat Defense                                                    Running Manual   
+webthreatdefusersvc_7eb2d   Service d’utilisateur Web Threat Defense_7eb2d                                Running Auto     
+whesvc                      Intégrité de Windows et expériences optimisées                                Running Auto     
+WinDefend                   Service antivirus Microsoft Defender                                          Running Auto     
+WinFsp.Launcher             WinFsp.Launcher                                                               Running Auto     
+WinHttpAutoProxySvc         Service de découverte automatique de Proxy Web pour les services HTTP Windows Running Manual   
+Winmgmt                     Infrastructure de gestion Windows                                             Running Auto     
+WlanSvc                     Service de configuration automatique WLAN                                     Running Auto     
+WpnService                  Service du système de notifications Push Windows                              Running Auto     
+WpnUserService_7eb2d        Service utilisateur de notifications Push Windows_7eb2d                       Running Auto     
+WSAIFabricSvc               Hôte des composants IA Windows                                                Running Auto     
+wscsvc                      Centre de sécurité                                                            Running Auto     
+WSearch                     Windows Search                                                                Running Auto     
+WSLService                  WSL Service                                                                   Running Auto
+
+--- Services automatiques arretes (Win32_Service) ---
+
+Name                                     DisplayName                                                                      State   StartMode
+----                                     -----------                                                                      -----   ---------
+AcerEZSvc                                Acer Experience Zone Component Service                                           Stopped Auto     
+AppXSvc                                  Service de déploiement AppX (AppXSVC)                                            Stopped Auto     
+brave                                    Service Brave Update (brave)                                                     Stopped Auto     
+DriversCloudAgent                        DriversCloud Agent                                                               Stopped Auto     
+edgeupdate                               Microsoft Edge Update Service (edgeupdate)                                       Stopped Auto     
+GoogleUpdaterInternalService159.0.8140.0 Service interne de mise à jour Google (GoogleUpdaterInternalService159.0.8140.0) Stopped Auto     
+GoogleUpdaterService159.0.8140.0         Service de mise à jour Google (GoogleUpdaterService159.0.8140.0)                 Stopped Auto     
+sppsvc                                   Protection logicielle                                                            Stopped Auto
+
+--- Docker (conteneurs actifs uniquement) ---
+Docker version 29.3.1, build c2be9cc
+docker.exe : failed to connect to the docker API at npipe:////./pipe/dockerDesktopLinuxEngine; check if the path is correct and if the daemon is running: open //./pipe/dockerDesktopLinuxEngine: Le fichier sp├®cifi├® est 
+introuvable.
+Au caractère C:\Users\sidix\Downloads\inventaire_initial_windows_v1.2.ps1:453 : 9
++         & docker ps --format 'table {{.Names}}\t{{.Image}}\t{{.Status ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (    failed to conne...st introuvable.:String)     [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandEr    ror
+
+--- Podman (conteneurs actifs uniquement) ---
+podman version 5.7.1
+podman.exe : Cannot connect to Podman. Please verify your connection to the Linux system using `podman system connection list`, or try `podman machine init` and `podman machine start` to manage a new Linux VM
+Au caractère C:\Users\sidix\Downloads\inventaire_initial_windows_v1.2.ps1:462 : 9
++         & podman ps --format 'table {{.Names}}\t{{.Image}}\t{{.Status ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (    Cannot connect ... a new Linux VM:String)     [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandEr    ror
+ 
+Error: unable to connect to Podman socket: Get "http://d/v5.7.1/libpod/_ping": dial unix /run/podman/podman.sock: connect: Une op├®ration de socket a rencontr├® un r├®seau inactif.
+
+--- Machines virtuelles Hyper-V (si disponible) ---
+Module Hyper-V / Get-VM indisponible.
+
+--- Distributions WSL ---
+  NAME              STATE           VERSION
+* Ubuntu            Stopped         2
+  docker-desktop    Stopped         2
+
+
+============================================================================
+  8 - OUTILS ET TECHNOLOGIES DISPONIBLES
+============================================================================
+
+--- Presence des outils (chemins executables non collectes) ---
+
+Outil      Disponible
+-----      ----------
+winget           True
+choco            True
+scoop            True
+nix             False
+docker           True
+podman           True
+wsl              True
+vagrant         False
+VBoxManage      False
+vmrun           False
+tailscale       False
+wg              False
+git              True
+python           True
+python3          True
+py               True
+node             True
+npm              True
+gcc             False
+cl              False
+make             True
+nmake           False
+ssh              True
+rsync           False
+borg            False
+restic          False
+
+--- Versions de quelques outils ---
+--- git ---
+git version 2.53.0.windows.1
+--- python ---
+Python 3.14.2
+--- python3 ---
+Python 3.14.2
+--- node ---
+v24.11.0
+--- docker ---
+Docker version 29.3.1, build c2be9cc
+--- podman ---
+podman version 5.7.1
+--- winget ---
+v1.29.380
+
+
+============================================================================
+  9 - INDICATEURS GENERAUX
+============================================================================
+
+--- Charge, processeurs logiques et uptime ---
+
+
+ChargeCPU_Moyenne_pct : 22
+ProcesseursLogiques   : 8
+DernierDemarrage      : 08/11/2026 11:24:27
+Uptime                : 10j 11h 47m
+
+--- Occupation du volume systeme ---
+
+
+DriveLetter     : C
+FileSystem      : NTFS
+FileSystemLabel : 
+Taille_Go       : 475,94
+Libre_Go        : 21,97
+
+
+============================================================================
+  10 - LIMITES ET INTERPRETATION
+============================================================================
+- Inventaire en lecture seule : aucune installation ni modification volontaire de configuration.
+- Aucune elevation administrateur n'est demandee.
+- Numeros de serie, UUID, identifiants de volumes, cles BitLocker, mots de passe et adresses MAC/BSSID ne sont pas collectes volontairement.
+- Le rapport contient neanmoins le nom du PC, des adresses IP locales, DNS, SSID Wi-Fi, ports, services et noms de conteneurs : traiter le fichier comme sensible.
+- Certaines informations peuvent etre absentes sans elevation ou si le module / pilote correspondant est indisponible.
+- Les caracteristiques CPU avancees, les mesures completes de VRAM AMD/Intel, les temperatures et le diagnostic SMART detaille seront approfondis selon le materiel detecte.
+- HealthStatus et les informations WMI sont des indications exposees par Windows / le fournisseur materiel, pas une certification independante.
+
+
+============================================================================
+  FIN DE L INVENTAIRE
+============================================================================
+Fin de collecte : 2026-11-18T23:11:57.5682624+01:00
+Fin du rapport.
